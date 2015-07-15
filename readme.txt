@@ -3,7 +3,7 @@ Contributors: pasqualebucci
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PKMBP2CF3M8SQ
 Tags: contact, form, contact form, contact form 7, feedback, email, city, captcha, city field, multilingual, google place, world, autocomplete, google map
 Requires at least: 4.0
-Tested up to: 4.4.2
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
