@@ -2,9 +2,9 @@
 Contributors: pasqualebucci
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PKMBP2CF3M8SQ
 Tags: contact, form, contact form, contact form 7, feedback, email, city, captcha, city field, multilingual, google place, world, autocomplete, google map
-Requires at least: 3.7
-Tested up to: 3.9.1
-Stable tag: 1.0
+Requires at least: 4.0
+Tested up to: 4.4.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,7 +17,7 @@ This plugin provides one new tag types for the Contact Form 7 Plugin. City Field
 = How to use it =
 
 After installing and activating the plugin, the Contact Form 7 tag generator will have one new tag type: City Text Field. Most of the options will be 
-familiar to Contact Form 7 users. Watch the video below:
+familiar to Contact Form 7 users. [__Go to the demo page__](https://cfe.wp-themes.it/) or watch the video below:
 
 [youtube https://www.youtube.com/watch?v=ha9JTE8wPS4]
 
@@ -47,10 +47,8 @@ None.  Yet. :)
 
 == Changelog ==
 
-= 1.0 =
-* First release.
-
-== Upgrade Notice ==
-
 = 1.1 =
+* Ready for the new release of CF7.
+
+= 1.0 =
 * First release.
