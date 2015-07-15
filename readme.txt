@@ -17,7 +17,7 @@ This plugin provides one new tag types for the Contact Form 7 Plugin. City Field
 = How to use it =
 
 After installing and activating the plugin, the Contact Form 7 tag generator will have one new tag type: City Text Field. Most of the options will be 
-familiar to Contact Form 7 users. [__Go to the demo page__](https://cfe.wp-themes.it/) or watch the video below:
+familiar to Contact Form 7 users. [__Go to the demo page__](http://cfe.wp-themes.it/) or watch the video below:
 
 [youtube https://www.youtube.com/watch?v=ha9JTE8wPS4]
 
